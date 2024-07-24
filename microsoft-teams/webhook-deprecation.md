@@ -26,7 +26,8 @@ To find the Teams where the webhook is used, you can use the following steps:
         "client_secret": "YOUR_CLIENT_SECRET",
         "tenant_id": "YOUR_TENANT_ID"
     }
-}```
+}
+```
 
 6. Run the Teams Webhook Finder tool with the following command:
 
